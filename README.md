@@ -1,6 +1,6 @@
 # Hey there, my name is Pedro!
 
-Current Personal Project: https://github.com/Boring-Algorithms
+Current Personal Project: Atmos!
 
 CV: https://pedroaz.github.io/cv/
 
