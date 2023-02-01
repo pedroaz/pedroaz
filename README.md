@@ -1,6 +1,6 @@
 # Hey there, my name is Pedro!
 
-Current Personal Project: Atmos!
+Current Personal Project: : https://atmos-cloud.com/
 
 CV: https://pedroaz.github.io/cv/
 
@@ -8,13 +8,19 @@ Linkedin: https://www.linkedin.com/in/pedro-azevedo-627ab8b2/
 
 E-mail: pedro.azvm@gmail.com
 
-## Boring Professional Description
+## Professional Description
 
-I am a hands-on software architect / developer who enjoys both designing and developing complex applications. Worked with both small and big teams, always focusing on bringing value with the best development practices in mind.
+I am a hands-on software architect who enjoys both designing and developing complex applications.
 
-Have knowledge on the whole software development cycle, including planning, implementation and testing. Worked on multiple types of projects: on-premise, cloud and migration projects. As an architect I have different responsibilities, but always value being close to the development team and always being able to understand the system.
+Knowledgeable on the entire software development cycle, including planning, design, implementation and testing.
 
-Have experience on a range of technologies, developing C# / C++ / Java / Python / Angular applications, designing and creating distributed systems and I am able to work with multiple cloud providers like AWS and Azure.
+Worked on multiple types of projects: on-premise, cloud and migration projects.
+
+Lead teams on an Agile environment utilizing enterprise tools such as Jira, Github, SwaggerHub.
+
+Have experience on a range of technologies, developing C# / Javascript / Java / C++ / React and Angular applications. Also designed
+and provisioned applications targeting Azure, AWS and GCP.
+
 
 
 
