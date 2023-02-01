@@ -1,6 +1,6 @@
 # Hey there, my name is Pedro!
 
-Current Personal Project: : https://atmos-cloud.com/
+Personal Project: : https://atmos-cloud.com/
 
 CV: https://pedroaz.github.io/cv/
 
